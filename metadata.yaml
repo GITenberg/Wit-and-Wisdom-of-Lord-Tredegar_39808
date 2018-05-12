@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40240'
     url: http://www.gutenberg.org/2009/agents/40240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39808#Wit-and-Wisdom-of-Lord-Tredegar
 gutenberg_issued: '2012-05-26'
 gutenberg_type: Text
 identifiers:
